@@ -1,0 +1,19 @@
+{
+    "name": "user/post-view-count",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Zr\\PostViewCount\\": "includes/"
+        },
+        "files": ["includes/Helper.php"]
+    },
+    "authors": [
+        {
+            "name": "zahedur",
+            "email": "87511400+zahedur@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
