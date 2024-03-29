@@ -8,7 +8,7 @@ This plugin displays view counts exclusively in the admin panel post list, strea
 
 1. **Download the Plugin**
 
-    - Download the plugin zip file from the [GitHub repository](https://github.com/zahedur/wp-plugins-related-posts).
+    - Download the plugin zip file from the [GitHub repository](https://github.com/zahedur/wp-plugins-post-view-count).
 
 2. **Upload to WordPress**
 
